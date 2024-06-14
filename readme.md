@@ -1,4 +1,4 @@
-# Selenium Web Scraper for TurkAnime
+# Selenium Web Scraper
 
 This repository contains a Python script that uses Selenium WebDriver to scrape anime titles from the TurkAnime website.
 
